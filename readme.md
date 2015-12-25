@@ -1,0 +1,1 @@
+This directory is for datastructures and algorithms implemented in Java 
