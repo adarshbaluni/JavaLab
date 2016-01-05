@@ -73,7 +73,7 @@ public class InsertionBST{
 		//bst.insertInBST(10);
 		bst.insertInBST(60);
 		bst.insertInBST(80);
-		bst.insertInBST(70);
+		bst.insertInBST(55);
 		bst.insertInBST(30);
 		bst.insertInBST(40);
 		bst.insertInBST(20);
